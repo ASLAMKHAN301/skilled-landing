@@ -61,6 +61,7 @@ body {
     font-weight: bold;
     font-size: 18px;
     background: linear-gradient(#FF6F48, #F02AA6);
+    border:none;
     color: white;
 }
 .div1 .d2 button:hover{
@@ -68,6 +69,8 @@ body {
     border: 1px solid blue;
     cursor: pointer;
     color:white ;
+    border:none;
+
 }
 .img{
     width: 991.6px;
@@ -158,12 +161,16 @@ body {
     font-size: 18px;
     background: linear-gradient(#4851FF, #F02AA6);
     color: white;
+    border:none;
+
 }
 .div3 button:hover{
     background: linear-gradient(#171450, #F02AA6);
     border: 1px solid blue;
     cursor: pointer;
     color:white ;
+    border:none;
+
 }
 .div3 img{
     width: 111.2px;
